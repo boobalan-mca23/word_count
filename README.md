@@ -2,7 +2,7 @@
 Description:
 This HTML document displays the top 3 most frequently occurring words from a provided paragraph after removing punctuation and converting all text to lowercase.
 
-## Step to run the Project
+## How to Run Project
 step1:Save the HTML file with .html extension.
 
 step2:Click the "Go Live" button.A new browser window will open, displaying top 3 words.
